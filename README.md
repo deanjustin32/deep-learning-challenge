@@ -1,5 +1,4 @@
 # deep-learning-challenge
-# deep-learning-challenge
 
 ## Introduction
 This analysis is to evaluate a neural network model developed to predict the success of funding ventures by The nonprofit foundation Alphabet Soup . The model is trained on a CSV dataset containing containing more than 34,000 organizations that have received funding from Alphabet Soup over the years. 
